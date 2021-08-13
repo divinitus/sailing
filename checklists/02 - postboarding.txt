@@ -16,8 +16,27 @@ Serve the info briefly.
  1.9. Clean mess (sic!) policy
 
  2. Safety and security
+
   2.1. Safety harness (check and demonstrate)
-  2.2. Fire suppression devices
-  2.3. Life raft deployment procedure
+  2.2. Fire suppression devices. (extinguishers and blankets)
+  2.2.1. Repeat loudly where they are with the crew.
+
+  2.3. Life raft deployment procedure.
   2.3.1. SRC Mayday! (red button until beeps)
-  2.3.2. Life raft launching procedure
+  2.3.2. Life raft launching procedure.
+  2.3.3. Collect pyro, epirb, radio, documents, deflector
+  2.3.3. Abandon ship.
+
+  2.4. Heavy conditions sailing rules
+  2.4.1. Everyone harness on.
+  2.4.2. All converge in cockpit strapped into valid hard points
+
+  2.5. Light conditions sailing rules.
+  2.5.1. Deck movement policy
+  2.5.2. Obstruction of vision awareness.
+
+3. Toilet usage
+3.1. Toilet usage w/demonstration
+3.2. Toilet bags deployment
+3.3. Cluttered toilets warning!
+3.4. Confirm proper usage of the toilets.
