@@ -1,2 +1,1 @@
-# sailing
-My sailing docs
+This is my Sailing repo.
