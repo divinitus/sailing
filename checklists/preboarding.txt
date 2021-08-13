@@ -1,0 +1,20 @@
+* Gather crew details -
+  * Full Name
+  * Passport/ID card: serial
+  * Date of birth
+  * Place of birth
+  * Nationality
+  * Vaccination status
+
+* Talk/Chat with crew members individually and explore their traits
+  * Prior experience
+  * Sea Sickness severity
+  * Diseases
+  * Medicine Drugs
+  * Blood type
+  * Emergency medical information
+  * Alcohol reaction
+  * Insurance policy details
+  * Recreational drugs
+  * Willingness to take certain crew position
+  * Habits and quirks skipper should know about
