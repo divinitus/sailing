@@ -1,0 +1,6 @@
+Seget Donji -> Milna
+Milna -> Starigrad
+Starigrad -> Pokrivenik
+Pokrivenik -> Luka
+Luka -> Supetar
+Supetar -> Seget Donji
