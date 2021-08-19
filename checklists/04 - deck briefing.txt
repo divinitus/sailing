@@ -1,0 +1,9 @@
+# this checklist is to be discussed on board before the departure
+1. Sails operation
+1.1. Mainsail operation
+1.2. Jib operation
+
+2. Steering
+2.1. Helm
+2.2. Compass
+2.3. Navigational equipment (Do not change the settings)
