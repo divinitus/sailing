@@ -1,5 +1,5 @@
 # this checklist is to be discussed on board before the departure
-1. Sails operation
+1. Sails
 1.1. Mainsail operation
 1.2. Jib operation
 
@@ -7,3 +7,16 @@
 2.1. Helm
 2.2. Compass
 2.3. Navigational equipment (Do not change the settings)
+2.4. Autopilot
+
+3. Anchor
+3.1. Anchor chain distance
+3.2. Anchor winch operation
+
+4. Dinghy
+4.1. Standby position
+4.2. Engine mount
+4.3. Weight distribution
+4.4. Engine operation
+4.5. Return
+4.6. Lift and position
