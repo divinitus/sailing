@@ -1,11 +1,3 @@
-* Gather crew details -
-  * Full Name
-  * Passport/ID card: serial
-  * Date of birth
-  * Place of birth
-  * Nationality
-  * Vaccination status
-
 * Talk/Chat with crew members individually and explore their traits
   * Prior experience
   * Sea Sickness severity
